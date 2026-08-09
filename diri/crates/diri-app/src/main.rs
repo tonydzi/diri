@@ -1,6 +1,7 @@
 mod clipboard_transfer;
 mod code_intelligence;
 mod code_viewer;
+mod composer;
 #[cfg(unix)]
 mod daemon_launch;
 mod dev_build;
